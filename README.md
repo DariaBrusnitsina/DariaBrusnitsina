@@ -1,6 +1,10 @@
 ### Projects
 
-1. <a href="https://dariabrusnitsina.github.io/Potion-game/" target="_blank">Potion-game</a> (<a href="https://github.com/DariaBrusnitsina/Potion-game" target="_blank">Code</a>)
+1. <a href="https://dariabrusnitsina.github.io/Potion-game/" target="_blank">Potion game</a> (<a href="https://github.com/DariaBrusnitsina/Potion-game" target="_blank">Code</a>)
+2. <a href="https://dariabrusnitsina.github.io/cozy-house-shelter/" target="_blank">Cozy House Shelter</a> (<a href="https://github.com/DariaBrusnitsina/cozy-house-shelter" target="_blank">Code</a>)
+3. <a href="https://dariabrusnitsina.github.io/minesweeper-game/" target="_blank">Cozy House Shelter</a> (<a href="https://github.com/DariaBrusnitsina/minesweeper-game" target="_blank">Code</a>)
+4. <a href="https://dariabrusnitsina.github.io/personal-dashboard-extension/" target="_blank">Personal Dashboard Extension</a> (<a href="https://github.com/DariaBrusnitsina/personal-dashboard-extension" target="_blank">Code</a>)
+5. <a href="https://dariabrusnitsina.github.io/plant-landing-page/" target="_blank">Plant Landing Page</a> (<a href="https://github.com/DariaBrusnitsina/plant-landing-page" target="_blank">Code</a>)
 
 ### Technology stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
