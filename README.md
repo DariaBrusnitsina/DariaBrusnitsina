@@ -1,3 +1,9 @@
+### 👉 You can find me at:
+<ul>
+  <li><a href="https://t.me/dbrusnitsina">Telegram</a></li>
+  <li><a href="mailto:contato@dbrusnitsina@gmail.com">Email</a></li>
+</ul>
+
 ### Technology stack
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
