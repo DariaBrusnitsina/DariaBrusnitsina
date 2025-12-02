@@ -2,6 +2,7 @@
 <ul>
   <li><a href="https://t.me/dbrusnitsina">Telegram</a></li>
   <li><a href="mailto:contato@dbrusnitsina@gmail.com">Email</a></li>
+  <li><a href="https://www.linkedin.com/m/in/daria-brusnitsina-%F0%9F%9A%80-ab5722259/">LinkedIn</a></li>
 </ul>
 
 ### Technology stack
