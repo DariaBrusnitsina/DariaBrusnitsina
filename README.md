@@ -1,6 +1,6 @@
 ### 👉 You can find me at:
 <ul>
-  <li><a href="https://t.me/dbrusnitsina">Telegram</a></li>
+  <li><a href="https://t.me/dbrusnitsina" target="_blank">Telegram</a></li>
   <li><a href="mailto:contato@dbrusnitsina@gmail.com">Email</a></li>
 </ul>
 
